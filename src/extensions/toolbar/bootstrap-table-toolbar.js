@@ -127,12 +127,12 @@ const theme = {
         <div class="reveal" id="avdSearchModal_%s" data-reveal>
           <h1>%s</h1>
           <div id="avdSearchModalContent_%s">
-          
+
           </div>
           <button class="close-button" data-close aria-label="Close modal" type="button">
             <span aria-hidden="true">&times;</span>
           </button>
-          
+
           <button id="btnCloseAvd_%s" class="%s" type="button">%s</button>
         </div>
       `
@@ -148,7 +148,7 @@ const theme = {
           <div class="modal-content">
             <h4>%s</h4>
             <div id="avdSearchModalContent_%s">
-            
+
             </div>
           </div>
           <div class="modal-footer">
